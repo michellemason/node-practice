@@ -1,0 +1,19 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mich",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/michellemason/node-practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/michellemason/node-practice/issues"
+  },
+  "homepage": "https://github.com/michellemason/node-practice#readme",
+  "description": ""
+}
